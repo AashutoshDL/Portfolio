@@ -1,8 +1,6 @@
-import React from 'react'
-
 const Socials = () => {
   return (
-    <div>
+    <div className='bg-background text-white'>
       <p>Socials Page</p>
     </div>
   )

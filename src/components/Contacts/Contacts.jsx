@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contacts = () => {
   return (
-    <div>
+    <div className='bg-background text-white'>
       <p>Contacts Page</p>
       
     </div>
