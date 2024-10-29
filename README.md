@@ -1,8 +1,9 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Personal Portfolio
 
-Currently, two official plugins are available:
+This is a personal portfolio made using React Js and Tailwind CSS to display and showcase other project alongside.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the link to the portfolio:
+https://portfolio-liard-chi-13.vercel.app/
+
+This application is hosted using CI/CD provided by vercel.
