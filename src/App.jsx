@@ -1,5 +1,4 @@
 import './App.css'
-import Contacts from './components/Contacts/Contacts'
 import Home from './components/Home/Home'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Projects from './components/Projects/Projects'
@@ -12,7 +11,6 @@ function App() {
       <Navbar />
       <Routes>
           <Route path='/' element={<Home />} />
-          <Route path='/contacts' element={<Contacts />} />
           <Route path='/projects' element={<Projects />} />
       </Routes>
     </Router>

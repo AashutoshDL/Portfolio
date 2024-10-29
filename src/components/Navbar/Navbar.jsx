@@ -7,9 +7,7 @@ const Navbar = () => {
         <div className="text-2xl underline underline-offset-10">
           <Link to="/">AD</Link>
         </div>
-        <div className="text-1xl underline underline-offset-10">
-          <Link to="/contacts">CONTACTS</Link>
-        </div>        <div className="text-1xl underline underline-offset-10">
+          <div className="text-1xl underline underline-offset-10">
           <Link to="/projects">PROJECTS</Link>
         </div>
       </div>
